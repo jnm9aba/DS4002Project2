@@ -56,6 +56,7 @@ All of the images that were analyzed are in a folder within DATA called IMAGES. 
 | Bargraph of Percentage Change in Likes for Green-Dominant Posts  | There aren't too many accounts with at least one green dominant post. For those that do, one has a very negative percentage change in likes for green posts and the rest have about the same percentage change--between 15 and 30%. |
 | Bargraph of Percentage Change in Likes for Red-Dominant Posts | All of the accounts have at least one red-dominant post. A majority of these accounts have a positive percentage change, but there are still quite a few that are negative. The percentage changes aren't too strong for positive or negative. |
 | Bargraph of Percentage Change in Likes for Blue-Dominant Posts | 90% of accounts had blue-dominant photos. A majority of the accounts had a negative percentage change for these posts, however, the magnitude of those that are positive cause there to be more positivity than negativity in percentage change for these accounts. |
+| Bargraph of Average Likes for Most Followed Instagram Accounts | Even though these are the most popular accounts, there is still a wide variety in their popularity. There are extremely popular accounts like @zendaya that receive so many likes they could potentially skew our results. It would be wise to normalize our data somehow.  |
 
 ## REFERENCES
 
