@@ -2,6 +2,8 @@
 
 ### Code Installation/Building
 
+The code is in the Jupyter Notebook (.ipynb file format). It can be run locally using software such as Jupyter Labs or VSCode, or in the cloud using a service such as Google Colab.
+
 ### Code Usage
 
 ## DATA
@@ -36,12 +38,15 @@
 | Average Number of Likes on Red-Dominant Posts | Average Number of Likes the Red-Dominant Pictures of the 10 Most Recent Posts Received |
 | Average Number of Likes on Green-Dominant Posts | Average Number of Likes the Green-Dominant Pictures of the 10 Most Recent Posts Received |
 | Average Number of Likes on Blue-Dominant Posts | Average Number of Likes the Blue-Dominant Pictures of the 10 Most Recent Posts Received |
-| Red-Dominant Percentage |  |
+| Red-Dominant Percentage | Ratio of Likes of Red-Dominant Pictures to Average Number of Likes of Account |
+| Green-Dominant Percentage | Ratio of Likes of Green-Dominant Pictures to Average Number of Likes of Account |
+| Blue-Dominant Percentage | Ratio of Likes of Blue-Dominant Pictures to Average Number of Likes of Account |
 
 ### Link to Data
-[Our Data](Link)
+[Our Data](https://github.com/jnm9aba/DS4002Project2/tree/main/DATA)
 
 ### Notes
+All of the images that were analyzed are in a folder within DATA called IMAGES. Within this folder, there is a folder for each account that contains all of the images.
 
 ## FIGURES
 | Figure | Takeaways |
