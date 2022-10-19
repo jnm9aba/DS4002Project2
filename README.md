@@ -6,6 +6,8 @@ The code is in the Jupyter Notebook (.ipynb file format). It can be run locally 
 
 ### Code Usage
 
+It is recommended to not run the entire file, as that will result in downloading the images to your computer and populating the dataframes from scratch. If desired, both the images and the dataframes can be downloaded from the github. If you want to explore the image analysis techniques used, all of the helper functions are in the file and custom images can be uploaded.
+
 ## DATA
 
 ### Data Dictionary
