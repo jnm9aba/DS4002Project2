@@ -59,7 +59,16 @@ All of the images that were analyzed are in a folder within DATA called IMAGES. 
 
 ## REFERENCES
 
+[1] B. C. Author, R. Katai, and N. Schaffer, “5 things the most liked Instagram photos include,” Social Media & Influencer Marketing Speaker, Consultant & Author, 02-Oct-2022. [Online]. Available: https://nealschaffer.com/most-liked-instagram-photos/. [Accessed: 05-Oct-2022]. 
+
+[2] S. Ajani, “6 ways to get more Instagram likes - it's easier than you think,” Keyhole, 23-Jan-2020. [Online]. Available: https://keyhole.co/blog/get-more-instagram-likes/#:~:text=DOMINANT%20COLORS%20ARE%20IMPORTANT&amp;text=Research%20has%20shown%20that%20predominantly,or%20in%20blue%2Dhued%20lighting. [Accessed: 05-Oct-2022].
+
+[3] “List of most-followed Instagram accounts,” Wikipedia, 11-Oct-2022. [Online]. Available: https://en.wikipedia.org/wiki/List_of_most-followed_Instagram_accounts. [Accessed: 12-Oct-2022]. 
+
+[4] R. Madsen, “Color models and color spaces,” Color models and color spaces - Programming Design Systems. [Online]. Available: https://programmingdesignsystems.com/color/color-models-and-color-spaces/index.html#:~:text=HSV%20is%20a%20cylindrical%20color,on%20the%20RGB%20color%20circle. [Accessed: 19-Oct-2022]. 
+
 ### Acknowledgements
+We would like to acknowledge Professor Alonsi and Harsh for helping us throughout our project.
 
 ### MI1 Assignment
 [Milestone 1](https://docs.google.com/document/d/15haxigBHvCb8rI7tktmQFV64L9-oW4imXrP1yVX8IdY/edit?usp=sharing)
