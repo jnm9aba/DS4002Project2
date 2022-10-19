@@ -10,7 +10,7 @@ It is recommended to not run the entire file, as that will result in downloading
 
 ## DATA
 
-### Data Dictionary
+### Data Dictionaries
 
 #### final_df.csv
 | Variable | Description |
