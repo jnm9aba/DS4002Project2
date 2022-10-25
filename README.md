@@ -69,7 +69,7 @@ All of the images that were analyzed are in a folder within DATA called IMAGES. 
 [4] R. Madsen, “Color models and color spaces,” Color models and color spaces - Programming Design Systems. [Online]. Available: https://programmingdesignsystems.com/color/color-models-and-color-spaces/index.html#:~:text=HSV%20is%20a%20cylindrical%20color,on%20the%20RGB%20color%20circle. [Accessed: 19-Oct-2022]. 
 
 ### Acknowledgements
-We would like to acknowledge Professor Alonsi and Harsh for helping us throughout our project.
+We would like to acknowledge Professor Alonzi and Harsh for helping us throughout our project.
 
 ### MI1 Assignment
 [Milestone 1](https://docs.google.com/document/d/15haxigBHvCb8rI7tktmQFV64L9-oW4imXrP1yVX8IdY/edit?usp=sharing)
